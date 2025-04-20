@@ -109,7 +109,8 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![Uploading 3 dip.jpg…]()
+![3 dip](https://github.com/user-attachments/assets/9fe41da2-bdf3-4ef5-8434-916ab69267ac)
+
 
 
 
