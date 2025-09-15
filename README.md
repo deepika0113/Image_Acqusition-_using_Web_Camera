@@ -27,8 +27,8 @@ End the program and close the output video window by pressing 'q'.
 
 
 ## Program:
-### Developed By: SINGAMALA VENKATA SAI KUMAR REDDY
-### Register No: 212223230208
+### Developed By: DEEPIKA.R
+### Register No: 212224100009
 
 ## i) Write the frame as JPG file
 ``` Python
